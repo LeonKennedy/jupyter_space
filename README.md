@@ -10,5 +10,6 @@ http://htmlpreview.github.io/?
 + numpy_linalg     linalg组件
 + numpy_questions   questions组件
 + numpy_statistics    statistics统计组件
++ numpy_1          小李子(对数，指数)
 + datetime         datetime的例子
 + sorted            sort list dict 的例子(这个不好 以后该)
