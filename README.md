@@ -13,3 +13,5 @@ http://htmlpreview.github.io/?
 + numpy_1          小李子(对数，指数)
 + datetime         datetime的例子
 + sorted            sort list dict 的例子(这个不好 以后该)
++ lesson_distribute     课程分布
++ linear_regression    多元线性回归
